@@ -9,8 +9,8 @@ int main(void)
 	char letter;
 
 	for (letter = 'z'; letter >= 'a'; letter--)
-		purchar(letter);
+		putchar(letter);
 
-	purchar('\n');
+	putchar('\n');
 	return (0);
 }
