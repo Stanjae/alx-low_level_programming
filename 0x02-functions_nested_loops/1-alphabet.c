@@ -6,9 +6,9 @@ void print_alphabet(void)
 {
 	char soak;
 
-	for (soak = "a"; soak <= "z"; soak++)
+	for (soak = 'a'; soak <= 'z'; soak++)
 	{
 		_putchar(soak);
 	}
-	_putchar("\n");
+	_putchar('\n');
 }
