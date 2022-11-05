@@ -1,1 +1,1 @@
-0x09. C - Static libraries
+This is the last task on static libraries
