@@ -1,1 +1,2 @@
 0x10-variadic_functions
+updated variadic functions
